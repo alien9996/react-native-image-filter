@@ -1,14 +1,12 @@
 {
   "name": "react-native-image-filter",
+  "description": "React Native Image Filter component",
   "version": "1.0.0",
   "author": "Alien",
-  "description": "",
   "private": false,
   "main": "index.js",
   "scripts": {
-    "prepare": "rm -rf android/build Example/android/build Example/android/app/build node_modules",
-    "start": "node node_modules/react-native/local-cli/cli.js start",
-    "test": "jest"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
     "react-native",
@@ -24,7 +22,6 @@
   "bugs": {
     "url": "https://github.com/alien9996/ReactNativeImageFilter/issues"
   },
-  "author": "",
   "license": "",
   "peerDependencies": {
     "react-native": ">=0.41.2",
