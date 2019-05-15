@@ -1,9 +1,13 @@
 {
   "name": "react-native-image-filter",
+  "description": "React Native Image Filter component",
   "version": "1.0.0",
   "author": "Alien",
+<<<<<<< HEAD
   "license": "MIT",
   "description": "React native library image processing",
+=======
+>>>>>>> 663f0f1d6c624e2cf0298232ab363c8fb88836d4
   "private": false,
   "main": "index.js",
   "scripts": {
@@ -23,7 +27,11 @@
   "bugs": {
     "url": "https://github.com/alien9996/ReactNativeImageFilter/issues"
   },
+<<<<<<< HEAD
   "homepage": "https://github.com/alien9996/ReactNativeImageFilter#readme",
+=======
+  "license": "",
+>>>>>>> 663f0f1d6c624e2cf0298232ab363c8fb88836d4
   "peerDependencies": {
     "react-native": ">=0.41.2",
     "react-native-windows": "0.41.0-rc.1"
