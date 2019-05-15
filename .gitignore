@@ -1,4 +1,10 @@
+#Logs
+*.log
 
+# Runtime data
+tmp
+build
+dist
 # OSX
 #
 .DS_Store
@@ -30,7 +36,6 @@ DerivedData
 *.xcuserstate
 project.xcworkspace
       
-
 # Android/IntelliJ
 #
 build/
