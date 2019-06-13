@@ -1,6 +1,10 @@
 
 # react-native-image-filter
 
+## Demo
+
+![gif]()
+
 ## Getting started
 
 `$ npm install react-native-image-filter --save`
