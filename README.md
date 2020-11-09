@@ -5,7 +5,7 @@
 
 ## Demo
 
-![gif](https://github.com/alien9996/ReactNativeImageFilter/blob/master/filter.gif?raw=true)
+![gif](https://github.com/alien9996/library-gif/blob/main/filter.gif?raw=true)
 
 ## Getting started
 
@@ -74,7 +74,7 @@ filterType (int)|0|Select the type you want to filter images, the values from 0 
 
 ## Filter types
 
-![filterType](https://github.com/alien9996/ReactNativeImageFilter/blob/master/filter_type.png?raw=true)
+![filterType](https://github.com/alien9996/library-gif/blob/main/filter_type.png?raw=true)
 
 ## Note
 - The image path you send into **imageSource:''** must be the absolute path. If you have problems with the absolute path, you can find the solution [here](https://stackoverflow.com/questions/52423067/how-to-get-absolute-path-of-a-file-in-react-native).
