@@ -5,7 +5,7 @@
 
 ## Demo
 
-<img src="https://github.com/alien9996/ReactNativeImageFilter/blob/master/filter.gif?raw=true" width="300"/>
+![gif](https://github.com/alien9996/ReactNativeImageFilter/blob/master/filter.gif?raw=true)
 
 ## Getting started
 
