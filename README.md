@@ -29,8 +29,6 @@ Or
 
 #### Android
 
-3
-
 1. Open up `android/app/src/main/java/[...]/MainActivity.java`
 
 - Add `import com.reactlibrary.RNImageFilterPackage;` to the imports at the top of the file
